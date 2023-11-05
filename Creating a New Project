@@ -1,0 +1,4 @@
+*\ Configuring a new project to work with in C#
+
+dotnet new console -o ./CsharpProjects/LearningCSharp
+
